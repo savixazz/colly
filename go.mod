@@ -5,7 +5,7 @@ go 1.12
 require (
 	github.com/PuerkitoBio/goquery v1.5.1
 	github.com/andybalholm/cascadia v1.2.0 // indirect
-	github.com/antchfx/htmlquery v1.2.3
+	github.com/wenj91/htmlquery v0.0.0
 	github.com/antchfx/xmlquery v1.2.4
 	github.com/antchfx/xpath v1.1.8 // indirect
 	github.com/gobwas/glob v0.2.3
